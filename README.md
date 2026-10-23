@@ -8,9 +8,10 @@
 
 
 ## Hardware
-Nvidia Quadro P6000 24Gb
-xeon 16 core
-64 gb of DDR4
+Nvidia Quadro P6000 24Gb //
+xeon 16 core //
+64 gb of DDR4 //
+a dream
 
 
 ## Hardware Wishlist
